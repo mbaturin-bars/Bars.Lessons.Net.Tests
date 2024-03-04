@@ -1,1 +1,5 @@
-# Bars.Lessons.Net.Docker-
+# Bars.Lessons.Net.Tests
+
+Репозиторий содержит материалы для урока по разработке unit тестов для приложений на .NET
+
+- [Пример реализации проекта тестов](./Database.Tests)
